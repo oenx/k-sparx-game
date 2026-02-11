@@ -203,7 +203,3 @@ elif page == "개발 로드맵":
         st.write(f"**{k}** – {v}")
 
     st.progress(20)
-
-
-
-streamlit run app.py
